@@ -11,9 +11,19 @@ button{
     font-size: 20px;
 }
 .h1{
+    margin-left: auto;
     font-size: 300px;
+    display: block;
 }
 heaer {
     text-align: right;
     margin-left: 40 100px;
+}
+div{
+    display: flex;
+}
+.footer{
+    background-color: black;
+    height: 20px;
+    width: 30px;
 }
