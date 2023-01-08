@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+}
+button{
+    color: aliceblue;
+    background-color: coral;
+    border-radius: 6px;
+    padding: 16px;
+    border: 0px;
+    font-size: 20px;
+}
+.h1{
+    font-size: 300px;
+}
+heaer {
+    text-align: right;
+    margin-left: 40 100px;
+}
